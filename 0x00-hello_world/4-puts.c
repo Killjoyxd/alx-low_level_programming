@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+/**
+ *
+ *  *main- Entry point for the program
+ *
+ *   *
+ *
+ *    *Return: Always 0 no erros otherwise returns non-zero value.
+ *
+ *     */
+
+int main(void)
+
+{
+
+		puts("\"Programming is like building a multilingual puzzle");
+
+			return (0);
+
+}
