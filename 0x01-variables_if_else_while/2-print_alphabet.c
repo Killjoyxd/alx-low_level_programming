@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	chart i;
+	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
